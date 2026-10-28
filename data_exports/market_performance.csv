@@ -1,0 +1,16 @@
+markets_code,markets_name,zone,total_transactions,revenue_mln,profit_mln,profit_margin_pct
+Mark004,Delhi NCR,North,44219,519.57,13.05,2.51
+Mark002,Mumbai,Central,11321,150.08,4.87,3.25
+Mark003,Ahmedabad,North,20035,132.31,2.85,2.15
+Mark011,Nagpur,Central,47670,55.03,1.41,2.57
+Mark007,Bhopal,Central,13226,42.08,1.04,2.47
+Mark010,Kochi,South,4920,18.81,0.7,3.74
+Mark001,Chennai,South,1028,18.04,0.3,1.67
+Mark013,Bhopal,Central,96,16.53,1.25,7.54
+Mark005,Kanpur,North,2811,13.58,-0.07,-0.49
+Mark014,Hyderabad,South,2034,7.44,0.05,0.63
+Mark009,Patna,North,402,4.43,0.18,4.12
+Mark008,Lucknow,North,104,3.09,0.03,1.01
+Mark012,Surat,North,403,2.61,0.13,4.86
+Mark015,Bhubaneshwar,South,112,0.89,0.04,3.98
+Mark006,Bengaluru,South,14,0.37,-0.08,-20.78
